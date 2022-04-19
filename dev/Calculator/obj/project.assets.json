@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teixeiras\\Desktop\\dev\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Teixeiras\\Desktop\\Conceitos-de-logica\\dev\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Teixeiras\\Desktop\\dev\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Teixeiras\\Desktop\\Conceitos-de-logica\\dev\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Teixeiras\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teixeiras\\Desktop\\dev\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Teixeiras\\Desktop\\Conceitos-de-logica\\dev\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
