@@ -6,7 +6,7 @@ namespace Calculator
     {
         static void Main(string[] args)
         {
-         Divisao();
+         Multiplicação();
 
         } 
         
@@ -62,6 +62,22 @@ namespace Calculator
 
             Console.ReadKey();                                                       
         }
+
+        static void Multiplicação(){
+            Console.Clear();
+
+            Console.WriteLine("Primeiro Valor:");
+            float v1 = float.Parse(Console.ReadLine());
+        
+           Console.WriteLine("Segundo Valor");
+           float v2 = float.Parse(Console.ReadLine());
+
+           float  resultado = v1*v2;                
+           Console.WriteLine($"O Valor da Multiplicação é:{resultado}");
+
+           Console.ReadKey();  
+        }
+
 
     }  
 
