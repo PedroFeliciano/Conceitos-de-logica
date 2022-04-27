@@ -14,7 +14,11 @@ namespace Stopwatch
         static void Start()
         {
 
-            int time=10;
+          Console.Clear();  
+        Console.WriteLine("Valor do tempo:");
+        int v1 = int.Parse(Console.ReadLine());
+
+            int time=v1;
             int currentTime =0; 
             
             while(currentTime != time )
@@ -25,6 +29,9 @@ namespace Stopwatch
              Thread.Sleep(1000);  
             }
             Console.WriteLine("O tempo acabou");
+            Start();        
         }
+
+
     }
 }
