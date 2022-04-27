@@ -8,17 +8,23 @@ namespace Stopwatch
     {
         static void Main()
         {
-            Start();
+            Menu();
         }
+           
+     static void Menu(){
+     
+       Console.Clear();
+       Console.WriteLine("S = Segundos");
+       Console.WriteLine("M= Minuto");
+       Console.WriteLine("0= Sair");
+       Console.WriteLine("Qunato tempo deseja?");
 
-        static void Start()
+     }
+
+     
+
+        static void Start(int time)
         {
-
-          Console.Clear();  
-        Console.WriteLine("Valor do tempo:");
-        int v1 = int.Parse(Console.ReadLine());
-
-            int time=v1;
             int currentTime =0; 
             
             while(currentTime != time )
@@ -28,8 +34,9 @@ namespace Stopwatch
               Console.WriteLine(currentTime);
              Thread.Sleep(1000);  
             }
+            Console.Clear();
             Console.WriteLine("O tempo acabou");
-            Start();        
+            Thread.Sleep(2500);
         }
 
 
