@@ -30,12 +30,30 @@ namespace Stopwatch
     
     if (time==0)
        System.Environment.Exit(0);
-       Start(time * multplier);
+       Prestart(time * multplier);
 
     
      }
 
+    static void Prestart(int time){
+     
+     Console.Clear();
+     Console.WriteLine("Preparar");
+     Thread.Sleep(1000);
+     
+    Console.Clear();
 
+     Console.WriteLine("Apontar");
+     Thread.Sleep(1000);
+    
+    Console.Clear();
+
+     Console.WriteLine("Fogo");
+     Thread.Sleep(1000);
+
+    Start(time);
+
+    }
      
 
         static void Start(int time)
