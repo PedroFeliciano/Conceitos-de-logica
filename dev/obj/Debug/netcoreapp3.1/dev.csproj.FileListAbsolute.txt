@@ -11,3 +11,9 @@ C:\Users\Teixeiras\Desktop\dev\bin\Debug\netcoreapp3.1\dev.pdb
 C:\Users\Teixeiras\Desktop\dev\obj\Debug\netcoreapp3.1\dev.dll
 C:\Users\Teixeiras\Desktop\dev\obj\Debug\netcoreapp3.1\dev.pdb
 C:\Users\Teixeiras\Desktop\dev\obj\Debug\netcoreapp3.1\dev.genruntimeconfig.cache
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\obj\Debug\netcoreapp3.1\dev.csprojAssemblyReference.cache
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\obj\Debug\netcoreapp3.1\dev.AssemblyInfoInputs.cache
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\obj\Debug\netcoreapp3.1\dev.AssemblyInfo.cs
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\obj\Debug\netcoreapp3.1\dev.csproj.CoreCompileInputs.cache
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\obj\Debug\netcoreapp3.1\dev.dll
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\obj\Debug\netcoreapp3.1\dev.pdb

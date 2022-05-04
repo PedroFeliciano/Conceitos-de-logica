@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Teixeiras\\Desktop\\dev\\dev.csproj",
+      "projectUniqueName": "C:\\Users\\Teixeiras\\Desktop\\Conceitos-de-logica\\dev\\dev.csproj",
       "projectName": "dev",
-      "projectPath": "C:\\Users\\Teixeiras\\Desktop\\dev\\dev.csproj",
+      "projectPath": "C:\\Users\\Teixeiras\\Desktop\\Conceitos-de-logica\\dev\\dev.csproj",
       "packagesPath": "C:\\Users\\Teixeiras\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Teixeiras\\Desktop\\dev\\obj\\",
+      "outputPath": "C:\\Users\\Teixeiras\\Desktop\\Conceitos-de-logica\\dev\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
