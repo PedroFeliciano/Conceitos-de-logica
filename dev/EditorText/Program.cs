@@ -10,6 +10,7 @@ namespace EditorText
         }
     
       static void Menu(){
+        
 
       Console.Clear();
       
@@ -32,12 +33,23 @@ namespace EditorText
        
        }
 
-      static void Abrir() {}
-
-      static void editar() {}
-
+      
       }
+      
 
+      static void Abrir(){}
+
+      static void Editar(){
+     
+     Console.Clear();
+     Console.WriteLine("Digite qualquer coisa");
+     Console.WriteLine("---------------------");
+
+     string text = "";
+
+    while(Console.Readkey().Key != ConsoleKey.Escape);
+      }
 
     }
 }
+
