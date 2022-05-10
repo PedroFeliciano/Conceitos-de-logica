@@ -7,6 +7,7 @@ namespace EditorText
         static void Main(string[] args)
         {
           Menu();
+          
         }
     
       static void Menu(){
@@ -28,7 +29,7 @@ namespace EditorText
       
       case 0:System.Environment.Exit(0); break;
       case 1:Abrir();break;
-      case 2:editar();break;
+      case 2:Editar();break;
       default: Menu();break;
        
        }
@@ -44,12 +45,19 @@ namespace EditorText
      Console.Clear();
      Console.WriteLine("Digite qualquer coisa");
      Console.WriteLine("---------------------");
-
      string text = "";
 
-    while(Console.Readkey().Key != ConsoleKey.Escape);
+    do
+    {
+      text += Console.ReadLine();
+      text += Environment.NewLine;
+    }
+    while(Console.ReadKey().Key != ConsoleKey.Escape);
+     
+     Console.Write(text);
       }
 
     }
+    
 }
 
