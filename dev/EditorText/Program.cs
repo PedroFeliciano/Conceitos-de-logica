@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.IO;
 namespace EditorText
 {
     class Program
@@ -7,7 +7,6 @@ namespace EditorText
         static void Main(string[] args)
         {
           Menu();
-          
         }
     
       static void Menu(){
@@ -54,8 +53,26 @@ namespace EditorText
     }
     while(Console.ReadKey().Key != ConsoleKey.Escape);
      
-     Console.Write(text);
+     Salvar(text);
       }
+
+
+     static void Salvar(string text){
+
+       Console.Clear();
+       Console.WriteLine("Qual meio de salvamento do arquivo?");
+       var path = Console.ReadLine();
+     
+       using (var file = new StreamWriter(path))
+       {
+          file.Write(text);
+       }
+     
+      Console.WriteLine($"Arquivo{path} salvo com sucesso!");
+      Console.Read();
+      Menu();
+     }
+
 
     }
     
