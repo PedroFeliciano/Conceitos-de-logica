@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "51Q2xzC4hTqOL7WlcpBxpY1S4V+IYJjGreTpuBBZyq3SjhWVsQI+7G/+L+AEQ507B7imFuv+/2p6mpazSY3CfA==",
+  "dgSpecHash": "rWzxvvr/EjqiwPEaL0h6fBdsT3AenOkUcI1wUNBtWMwfsdFGxu21YdqzmIpO2ZcqI/jTPYYA8Cy25GKzWVY7Og==",
   "success": true,
   "projectFilePath": "C:\\Users\\Teixeiras\\Desktop\\Conceitos-de-logica\\dev\\EditorText\\EditorText.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Teixeiras\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Teixeiras\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
   "logs": []
 }

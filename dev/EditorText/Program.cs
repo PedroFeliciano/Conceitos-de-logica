@@ -1,12 +1,27 @@
 ﻿using System;
 using System.IO;
+using System.Threading.Tasks;
+
 namespace EditorText
 {
     class Program
     {
-        static void Main(string[] args)
+        static  void Main(string[] args)
         {
-          Menu();
+           ShowingAsyncronous().Wait();
+        }
+        public static  async Task ShowingAsyncronous(){
+          var list = new char[]{'E','u',' ','s','e','i', ' ', 'O','n','d','e', ' ', 'v','o','c', 'ê',' ', 'm','o','r','a'};
+          var text = string.Empty;
+          await Task.Delay(1000);
+          for (int i = 0; i < list.Length; i++)
+          {
+            Console.ForegroundColor = ConsoleColor.Green;
+            // Console.ForegroundColor = i % 2 == 0 ? ConsoleColor.Green :ConsoleColor.Blue ;
+            await Task.Delay(250);
+            Console.Write(list[i]);
+            
+          }
         }
     
       static void Menu(){

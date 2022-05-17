@@ -1,4 +1,3 @@
-C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\EditorText\obj\Debug\netcoreapp3.1\EditorText.csprojAssemblyReference.cache
 C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\EditorText\obj\Debug\netcoreapp3.1\EditorText.AssemblyInfoInputs.cache
 C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\EditorText\obj\Debug\netcoreapp3.1\EditorText.AssemblyInfo.cs
 C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\EditorText\obj\Debug\netcoreapp3.1\EditorText.csproj.CoreCompileInputs.cache
@@ -11,3 +10,5 @@ C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\EditorText\bin\Debug\netcorea
 C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\EditorText\obj\Debug\netcoreapp3.1\EditorText.dll
 C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\EditorText\obj\Debug\netcoreapp3.1\EditorText.pdb
 C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\EditorText\obj\Debug\netcoreapp3.1\EditorText.genruntimeconfig.cache
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\EditorText\obj\Debug\netcoreapp3.1\EditorText.csproj.AssemblyReference.cache
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\EditorText\obj\Debug\netcoreapp3.1\EditorText.GeneratedMSBuildEditorConfig.editorconfig
