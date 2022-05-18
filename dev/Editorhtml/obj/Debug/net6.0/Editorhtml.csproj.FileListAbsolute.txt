@@ -1,0 +1,15 @@
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\bin\Debug\net6.0\Editorhtml.exe
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\bin\Debug\net6.0\Editorhtml.deps.json
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\bin\Debug\net6.0\Editorhtml.runtimeconfig.json
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\bin\Debug\net6.0\Editorhtml.dll
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\bin\Debug\net6.0\Editorhtml.pdb
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\obj\Debug\net6.0\Editorhtml.csproj.AssemblyReference.cache
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\obj\Debug\net6.0\Editorhtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\obj\Debug\net6.0\Editorhtml.AssemblyInfoInputs.cache
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\obj\Debug\net6.0\Editorhtml.AssemblyInfo.cs
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\obj\Debug\net6.0\Editorhtml.csproj.CoreCompileInputs.cache
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\obj\Debug\net6.0\Editorhtml.dll
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\obj\Debug\net6.0\refint\Editorhtml.dll
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\obj\Debug\net6.0\Editorhtml.pdb
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\obj\Debug\net6.0\Editorhtml.genruntimeconfig.cache
+C:\Users\Teixeiras\Desktop\Conceitos-de-logica\dev\Editorhtml\obj\Debug\net6.0\ref\Editorhtml.dll
