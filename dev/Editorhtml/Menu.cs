@@ -58,6 +58,13 @@ namespace Editorhtml
    Console.SetCursorPosition(3,10);
    Console.Write("Opção: ");
   }
-
+    public static void  HundleMenuOption(short option)
+  {
+   switch(option) {
+     case 1: Console.WriteLine("Editor"); break;
+     case 2: Console.WriteLine("view"); break;
+     case 3: Console.WriteLine("view"); break;
+    }
+  }
   } 
 }
