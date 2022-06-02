@@ -62,8 +62,16 @@ namespace Editorhtml
   {
    switch(option) {
      case 1: Console.WriteLine("Editor"); break;
-     case 2: Console.WriteLine("view"); break;
-     case 3: Console.WriteLine("view"); break;
+     case 2: Console.WriteLine("View"); break;
+     case 0: 
+    {
+      
+      Console.Clear();
+      Environment.Exit(0);
+      break;
+    }
+    default: Show(); break;
+     
     }
   }
   } 
